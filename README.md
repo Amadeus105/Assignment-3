@@ -1,14 +1,15 @@
 # E-Commerce API
 IT-2305
-Ubaidullauly Azamat 231244
-Atembek Shaimerden 230229
-Temirlan 231383
-Assignment3
+Shaikenov Aidyn  
+Khunakhan Astana  
+Sadykov Arsen  
+Assignment 3  
+
 ## Project Overview
 This is a RESTful API for an e-commerce platform using **Node.js**, **Express**, and **MongoDB**. The API allows users to manage products, register, authenticate, and place orders.
 
 ## 🚀 Live Deployment
-**Backend API:** [https://your-app.vercel.app](https://ecommerce-c3tdvm29z-azamats-projects-d84994b6.vercel.app/api/orders)
+**Backend API:** [https://your-app.vercel.app]
 
 ## 📂 Project Structure
 ```
@@ -80,7 +81,6 @@ vercel
 
 ---
 
-
 ## 📖 Code Explanation
 ### **server.js**
 - Initializes the **Express app** and sets up middleware.
@@ -112,15 +112,11 @@ vercel
 ## 📸 Screenshots
 
 ### 1️⃣ MongoDB Database Structure
-![MongoDB](screenshots/1.png)
+![Mongodb](image.png)
 
 ### 2️⃣ API Responses in Postman
-![Postman](screenshots/2.png)
+![Postman](image-1.png)
 
 ### 3️⃣ Vercel Deployment Success
 ![Vercel](screenshots/3.png)
 
-
-![Vercel](screenshots/4.png)
-![Vercel](screenshots/5.png)
-![Vercel](screenshots/6.png)

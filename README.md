@@ -27,7 +27,7 @@ ecommerce-app/
 ## 🛠️ Setup Instructions
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ShadowFighterr/Assignment3-Backend.git
+git clone https://github.com/Amadeus105/Assignment-3/tree/main
 cd ecommerce-app
 ```
 
